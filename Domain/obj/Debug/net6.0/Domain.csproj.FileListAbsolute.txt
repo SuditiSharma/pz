@@ -1,0 +1,24 @@
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\bin\Debug\net6.0\Domain.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\bin\Debug\net6.0\Domain.pdb
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\obj\Debug\net6.0\Domain.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\obj\Debug\net6.0\Domain.pdb
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\Domain\obj\Debug\net6.0\ref\Domain.dll

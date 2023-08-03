@@ -1,0 +1,144 @@
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\appsettings.json
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\JwtTokenWebApi.exe
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\JwtTokenWebApi.deps.json
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\JwtTokenWebApi.runtimeconfig.json
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\JwtTokenWebApi.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\JwtTokenWebApi.pdb
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.csproj.AssemblyReference.cache
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.AssemblyInfoInputs.cache
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.AssemblyInfo.cs
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.csproj.CoreCompileInputs.cache
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets\msbuild.JwtTokenWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.JwtTokenWebApi.props
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JwtTokenWebApi.props
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JwtTokenWebApi.props
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\scopedcss\bundle\JwtTokenWebApi.styles.css
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.csproj.CopyComplete
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\refint\JwtTokenWebApi.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.pdb
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.genruntimeconfig.cache
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\obj\Debug\net6.0\ref\JwtTokenWebApi.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Domain.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Domain.pdb
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Repository.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Services.dll
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Repository.pdb
+D:\.Net 6 JWT Tokens\JwtTokenWebApi\JwtTokenWebApi\bin\Debug\net6.0\Services.pdb
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\JwtTokenWebApi.exe
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\JwtTokenWebApi.deps.json
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\JwtTokenWebApi.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\JwtTokenWebApi.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\JwtTokenWebApi.pdb
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Domain.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Repository.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Services.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Domain.pdb
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Repository.pdb
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\bin\Debug\net6.0\Services.pdb
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets\msbuild.JwtTokenWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.JwtTokenWebApi.props
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JwtTokenWebApi.props
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JwtTokenWebApi.props
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\scopedcss\bundle\JwtTokenWebApi.styles.css
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.csproj.CopyComplete
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\refint\JwtTokenWebApi.dll
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.pdb
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\JwtTokenWebApi.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Desktop\Puzzle game\PuzzleWebApi\PuzzleWebApi\JwtTokenWebApi\obj\Debug\net6.0\ref\JwtTokenWebApi.dll
